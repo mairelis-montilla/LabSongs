@@ -1,0 +1,33 @@
+/*
+gris = #1d1d1d;
+verde =#1db954;
+*/
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  background-color:#1d1d1d;
+  font-size: 62.5%;
+}
+.text-large{
+  color:white;
+  font-size: 3rem;
+  margin: 1rem;
+  text-align: center;
+}
+.text-m{
+  color:white;
+  font-size: 2rem;
+}
+img{
+  height: 3rem;
+  width: 3rem;
+  margin:1rem;
+}
+nav{
+  display: flex;
+  margin: 1rem 2rem;
+  width: 98vw;
+}
